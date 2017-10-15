@@ -15,9 +15,9 @@ div.container{
 header{
 	background-image: url("Capture.PNG") ;
 	float:left;
-	max-width: 100%;
-        height: auto;
-        width: auto; 
+	max-width: auto;
+        height: 100%;
+        width: 100%; 
 	background-repeat: no-repeat;
 	
 }
