@@ -14,11 +14,11 @@ div.container{
 
 
 header{
-	background-image: url("another1.jpg") ;
+	background-image: url("Capture.PNG") ;
 	float:left;
 	height: 100%;
         width: 100%; 
-	background-repeat: no-repeat;
+	background-repeat: yes;
 	
 	
 }
