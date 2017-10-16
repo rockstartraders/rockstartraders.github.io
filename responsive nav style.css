@@ -12,6 +12,12 @@ div.container{
 	
 }
 
+img{
+    max-width: 100%;
+    height: auto;
+    width: auto;
+}
+
 header{
 	background-image: url("another1.jpg") ;
 	float:left;
